@@ -9,8 +9,7 @@ Distro Ops gives your team, partners and customers one standardized way to deplo
 Learn more about cibot at [cibot.app](https://cibot.app). In the mean time, meet our cibot (in czech, cibotík - play with sound).
 
 
-https://github.com/user-attachments/assets/3c4d3410-0292-4455-bd12-bdd8bb299e5f
-
+https://github.com/user-attachments/assets/d3ebb7e0-ace0-40e3-99cb-99720372ba8b
 
 
 ## Partners
